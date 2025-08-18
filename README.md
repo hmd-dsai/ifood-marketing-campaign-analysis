@@ -14,7 +14,7 @@ This is my first major Data Science and Analytics (DS/DA) project. Here, I explo
 *Click the badge above to open and run this notebook interactively in Google Colab.*  
 
 ## Dataset source
-The dataset utilized in this project was sourced from [Github](https://github.com/nailson/ifood-data-business-analyst-test) and pertains to a marketing campaign for iFood. It was originally designed for hiring Data Analysts for the iFood Brain team.
+The dataset utilized in this project was sourced from [GitHub](https://github.com/nailson/ifood-data-business-analyst-test) and pertains to a marketing campaign for iFood. It was originally designed for hiring Data Analysts for the iFood Brain team.
 
 **Reference date:** 28/5/2020 (This date is important because variables such as `Customer_Days` are calculated relative to it.)
 
