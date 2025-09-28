@@ -25,7 +25,7 @@ The dataset utilized in this project was sourced from [GitHub](https://github.co
 - Interpreting model results in a business context
 
 ## Acknowledgement
-As this is my first major project in the field, I am aware that there are many areas for improvement. I welcome constructive feedback to help me improve further.
+As this is my first major project in the field, I am aware that there are many areas for improvement. I welcome constructive feedback to help me improve further. This project was also done before I started using Git for version control. I have since adopted this practice in my later repos.
 
 ## Further Reading
 For detailed reflections and behind-the-scenes notes, stay tuned for my blogpost! I will include the link to it here in the near future.
