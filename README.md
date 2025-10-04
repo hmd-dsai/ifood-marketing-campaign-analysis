@@ -7,12 +7,6 @@ This is my first major Data Science and Analytics (DS/DA) project. Here, I explo
 - Compare a selected-feature model and an all-feature model
 - Develop a prediction model to apply to the broader customer base.
 
-## Interactive Notebook
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hmd-dsai/ifood-marketing-campaign-analysis/blob/main/notebook/ifood_marketing_campaign_analysis.ipynb)
-
-
-*Click the badge above to open and run this notebook interactively in Google Colab.*  
-
 ## Dataset source
 The dataset utilized in this project was sourced from [GitHub](https://github.com/nailson/ifood-data-business-analyst-test) and pertains to a marketing campaign for iFood. It was originally designed for hiring Data Analysts for the iFood Brain team.
 
